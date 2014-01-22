@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1390411972 source:z:\documentos\gbiso9660\gbiso9660\main.cpp
+	"gbiso/gbiso.h"
+
+1390411559 source:z:\documentos\gbiso9660\gbiso9660\gbiso\gbiso.cpp
+	"gbiso.h"
+
+1390412014 z:\documentos\gbiso9660\gbiso9660\gbiso\gbiso.h
+	"types.h"
+	<stdio.h>
+	<string.h>
+	<vector>
+	<sys/stat.h>
+	<unistd.h>
+
+1389912064 source:z:\documentos\gbiso9660\gbiso9660\gbiso\utils.c
+	"utils.h"
+
+1389912060 z:\documentos\gbiso9660\gbiso9660\gbiso\utils.h
+	"types.h"
+
+1390328134 z:\documentos\gbiso9660\gbiso9660\gbiso\types.h
+
+1390412183 source:z:\documentos\gbiso9660\gbiso9660\sample\main.cpp
+	"../gbiso/gbiso.h"
+
